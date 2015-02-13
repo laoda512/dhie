@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@android:color/darker_gray" >
+
+    <ListView
+        android:id="@+id/list"
+        android:background="#ffffff"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="2dp" />
+
+</RelativeLayout><!-- From: file:/Users/cwang/Documents/workspace_a/umeng_android_socialize/res/layout/umeng_example_socialize_actionbar_hash.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/res/layout/umeng_example_socialize_actionbar_hash.xml -->

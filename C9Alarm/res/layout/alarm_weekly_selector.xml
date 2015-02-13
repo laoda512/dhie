@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:isScrollContainer="true">
+
+    <LinearLayout 
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" 
+	    android:orientation="vertical">
+	
+	    <CheckBox
+	        android:id="@+id/cbSun"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Sunday" android:gravity="center"/>
+	
+	    <CheckBox
+	        android:id="@+id/cbMon"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Monday" android:gravity="center"/>
+	
+	    <CheckBox
+	        android:id="@+id/cbTue"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Tuesday" android:gravity="center"/>
+	
+	    <CheckBox
+	        android:id="@+id/cbWed"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Wednesday" android:gravity="center"/>
+	
+	    <CheckBox
+	        android:id="@+id/cbThu"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Thursday" android:gravity="center"/>
+	
+	    <CheckBox
+	        android:id="@+id/cbFri"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Friday" android:gravity="center"/>
+	
+	    <CheckBox
+	        android:id="@+id/cbSat"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:text="@string/Saturday" android:gravity="center"/>
+    </LinearLayout>
+</ScrollView>
+

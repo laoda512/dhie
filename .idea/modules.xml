@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bmob_IM_test/Bmob_IM_test.iml" filepath="$PROJECT_DIR$/Bmob_IM_test/Bmob_IM_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C9Alarm/C9Alarm.iml" filepath="$PROJECT_DIR$/C9Alarm/C9Alarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DownloadProvider/DownloadProvider.iml" filepath="$PROJECT_DIR$/DownloadProvider/DownloadProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneKeyShare/OneKeyShare.iml" filepath="$PROJECT_DIR$/OneKeyShare/OneKeyShare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShareSDK/ShareSDK.iml" filepath="$PROJECT_DIR$/ShareSDK/ShareSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socialization/Socialization.iml" filepath="$PROJECT_DIR$/Socialization/Socialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-switch-demo/android-switch-demo.iml" filepath="$PROJECT_DIR$/android-switch-demo/android-switch-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libforAvos/libforAvos.iml" filepath="$PROJECT_DIR$/libforAvos/libforAvos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numberpick/numberpick.iml" filepath="$PROJECT_DIR$/numberpick/numberpick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pass/pass.iml" filepath="$PROJECT_DIR$/pass/pass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timeoick/timeoick.iml" filepath="$PROJECT_DIR$/timeoick/timeoick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timptest/timptest.iml" filepath="$PROJECT_DIR$/timptest/timptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trinea-android-common/trinea-android-common.iml" filepath="$PROJECT_DIR$/trinea-android-common/trinea-android-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_android_socialize/umeng_android_socialize.iml" filepath="$PROJECT_DIR$/umeng_android_socialize/umeng_android_socialize.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_android_socialize_demo/umeng_android_socialize_demo.iml" filepath="$PROJECT_DIR$/umeng_android_socialize_demo/umeng_android_socialize_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspace_a.iml" filepath="$PROJECT_DIR$/workspace_a.iml" />
+    </modules>
+  </component>
+</project>
+

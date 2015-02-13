@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML Basic 1.1//EN"
+    "http://www.w3.org/TR/xhtml-basic/xhtml-basic11.dtd">
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>帮助</title>
+<style type="text/css">
+body{
+	font-style:Helvetica,"Microsoft YaHei";
+	margin:0px;
+	padding:0px;
+	background-color: #FFF;
+}
+p{
+ line-height:120%;
+ padding-top:0;
+ padding-bottom:0;
+ margin:0;
+}
+.h1{
+	color:#ffffff;
+	font-size:20px;
+	line-height:150%;
+	background-color:#333;
+	padding:0 10px;
+	margin-bottom:5px;
+	text-align:center;
+}
+.h2{
+color:#206396;
+font-size:18px;
+line-height:130%;
+margin-top:10px;
+font-weight:bold;
+}
+
+.content{
+font-size:16px;
+line-height:150%;
+color:#000000;
+padding:5px;
+}
+
+.item{
+margin-top:10px;
+}
+.about_head_bottom_img {
+width:100%; height:
+}
+.question{}
+.answer{color:#8a8a8a;}
+.qaLeft{float:left; width:30px; }
+.qaRight{margin-left:35px;}
+
+div a{
+color:#6699cc;
+font-size:18px;
+}
+div.image{
+text-align:center;
+}
+
+div.image img{
+width:320px;
+border:0;
+margin:20px 0;
+}
+#div_nav {
+padding:5px;
+padding-top:15px;
+}
+#div_nav,#div_nav a{
+color:#23a0cc;
+font-size:16px;
+font-weight:bold;
+}
+
+.auto-style1 {
+	color: #808080;
+}
+
+
+</style>
+<script type="text/javascript">
+function loadVersion() {
+    var verdiv = document.getElementById("version");
+    verdiv.innerHTML = Android.getVersion();
+}
+</script>
+</head>
+<body align="center" onload="loadVersion();">
+<div id="div_container" style="width:100%; text-align:left; background-color:#e9e9e9;">
+    <div id="div_nav"><a href="#opers">帮助</a> | <a href="#about">关于</a><br>
+  </div>
+    <div class="item" id="opers">
+    <div class="h1">帮助</div>
+    <div class="content">
+    
+    
+        <div class="question">
+     
+          <div class="qaLeft">W：</div>
+          <div class="qaRight">
+           目前已知问题：</div>
+        </div>
+        <div class="answer"><div class="qaLeft">A：</div><div class="qaRight">
+        未来闹钟是一款基于android4.1.1及以上设计的闹钟，向下支持到2.2，但是4.0以下版本闹钟启动时无动画效果，设定日期时部分手机可能会需要长按按钮才能点亮。
+            </div>
+      </div>
+          <div class="question">
+     
+        <div class="qaLeft">Q：</div><div class="qaRight">
+            什么是未来闹钟？这是一款动漫主题闹钟么？ </div>
+        </div>
+        <div class="answer"><div class="qaLeft">A：</div><div class="qaRight">
+           啊（叹气）起名字什么的最麻烦了，小伙伴们叽叽喳喳半天最后决定还是用了这个中二的名字。未来闹钟目前共有9个主题，其中8个来自动漫，1个来自游戏，所以并不是一个纯以动漫为主题的闹钟，我们会在未来加入游戏，古风，明星等主题（如果有未来的话）</div>
+        </div>
+        <div style="clear:both;"></div>
+        <div class="question"><div class="qaLeft">Q：</div><div class="qaRight">
+            我喜欢夏目和其他动漫的人物，请问会有么？ </div>
+        </div>
+        <div class="answer"><div class="qaLeft">A：</div>
+        <div class="qaRight">
+           很多人气动漫的主题都在紧（ren）张（shou）有（bu）序（zu）的制作中，目前已有的海贼王，银魂，妖尾，魔禁，FSN，巨人等动漫中的其他人气角色也会有新的主题。顺便一提的是，我们也非常欢迎大家提供自己喜欢的动漫/游戏或者其他喜欢的图片or铃声资源，如果符合要求的话，我们会第一时间帮你制作成闹钟主题，在今后的版本中提供。</div>
+        </div>
+        <div style="clear:both;"></div>
+        <div class="question"><div class="qaLeft">Q：</div><div class="qaRight">
+           请问在哪里可以下载新的主题？</div>
+        </div>
+        <div class="answer"><div class="qaLeft">A：</div><div class="qaRight">
+            目前所有的主题都已经在安装包内了，我们会在近期更新的版本中添加下载主题的功能，届时大家就可以下载到更多主题了。所以请大家即时更新软件，也可以关注下方的官方微博获取最新的消息。</div>
+        </div>
+        <div style="clear:both;"></div>
+        <div class="question"><div class="qaLeft">Q：</div><div class="qaRight">
+            未来闹钟和我以前用过的闹钟不太一样，如何使用？</div>
+        </div>
+        <div class="answer"><div class="qaLeft">A：</div><div class="qaRight">
+            未来闹钟的设计里面就是便于使用，所以简化了许多操作，首页四个方形动画按钮分别代表四个闹钟，点击进入后右下可以选择主题，右上预览闹钟，点击左下面板或者往右上方滑动动屏幕就可以切换时间日期设置页面，开启闹钟后，设置你希望的时间和日期，点击保存，闹钟就会生效，在提示栏会有消息提示。你也可以通过点击首页中心圆环的四个环片快捷开启和关闭对应的闹钟。</div>
+            
+        </div>
+           <div style="clear:both;"></div>
+        <div class="question"><div class="qaLeft">Q：</div><div class="qaRight">
+           首页底部的按钮是做什么的？</div>
+        </div>
+        <div class="answer"><div class="qaLeft">A：</div><div class="qaRight">
+        这是关闭贪睡闹钟的按钮，当闹钟启动超过1分钟无人响应或者用户双击画面后，系统会进入贪睡模式，在一定时间（可以在更多->贪睡时间中修改）后会再次启动，如果已经起床了，不希望闹钟再响，可以点击按钮关闭。
+            </div>
+            
+             </div>
+           <div style="clear:both;"></div>
+       
+        </div>
+    </div>
+    </div>
+  <div class="item" id="about">
+    <div class="h1">关于</div>
+    <div class="content">
+      <p style="height:30px;"><span id="version"></span></p>
+        <p style="height:30px;">QQ群交流：  347150864</p>
+        <p style="height:30px;">微博： http://weibo.com/ProjectAlarmX    </p>
+    </div>
+    </div>
+    <div></div>
+</div> <!-- container -->
+</body>

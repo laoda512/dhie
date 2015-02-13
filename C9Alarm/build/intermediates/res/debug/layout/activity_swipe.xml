@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/animation_layout_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#999999"
+    android:clickable="true" >
+
+    <android.support.v4.view.ViewPager
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+        
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout><!-- From: file:/Users/cwang/Documents/workspace_a/umeng_android_socialize/res/layout/activity_swipe.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/res/layout/activity_swipe.xml -->

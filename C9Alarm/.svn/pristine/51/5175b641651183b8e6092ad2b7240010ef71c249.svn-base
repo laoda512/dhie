@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayoutButtons"
+    android:layout_width="fill_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/bottommenu"
+    android:gravity="bottom" >
+
+    <LinearLayout
+        android:id="@+id/leftPad"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="8dp" >
+
+        <TextView
+            android:id="@+id/btComment"
+            android:layout_width="16dp"
+            android:layout_height="20dp"
+            android:background="@drawable/bottombar_indicator_l_normal"
+            android:gravity="center" />
+
+        <TextView
+            android:id="@+id/btCommenttx"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:gravity="center_vertical|"
+            android:paddingLeft="8dp"
+            android:text="下载主题"
+            android:textColor="#000"
+            android:textSize="16dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/rightPad"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="10dp"
+        android:paddingRight="8dp" >
+
+        <TextView
+            android:id="@+id/btSettingtx"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:gravity="center_vertical|"
+            android:paddingRight="8dp"
+            android:text="设定"
+            android:textColor="#000"
+            android:textSize="16dp" />
+
+        <TextView
+            android:id="@+id/btSetting"
+            android:layout_width="16dp"
+            android:layout_height="20dp"
+            android:background="@drawable/bottombar_indicator_r"
+            android:gravity="center" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/btStop"
+        android:layout_width="53dp"
+        android:layout_height="53dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:background="@drawable/btn_lazyoff" />
+
+</RelativeLayout>

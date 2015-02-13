@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mySwitch="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res/com.tavx.C9Alarm"
+    android:id="@+id/main_Frame"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/transparent_background" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/topPad"
+            android:layout_width="300dp"
+            android:layout_height="370dp"
+          
+             >
+
+            <ImageView
+                android:id="@+id/alarm_bg"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/alarm_border_06" />
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="211dp"
+                android:layout_height="264dp"
+                android:layout_centerInParent="true"
+                android:scaleType="centerCrop"
+                />
+
+            <TextView
+                android:id="@+id/topHint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/imageView1"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="8dp"
+                android:text="点击下方再睡5分钟"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+        </RelativeLayout>
+
+        <com.appscumen.example.MySwitch
+            android:id="@+id/switch3"
+            style="@style/mySwitchStyle"
+            android:layout_width="240dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/topPad"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="10dp"
+            app:textOff=" "
+            app:textOn=" "
+            mySwitch:switchMinWidth="240dp"
+            mySwitch:textOnThumb="false"
+            mySwitch:thumb="@drawable/switch_thumb_arrow"
+            mySwitch:track="@drawable/switch_track" />
+
+        <TextView
+             android:id="@+id/hint"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/switch3"
+            android:layout_centerHorizontal="true"
+            android:text="滑动拖条起床" />
+    </RelativeLayout>
+
+</RelativeLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/alert_alarm.xml -->

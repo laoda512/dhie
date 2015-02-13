@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/rgAlarmNames"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:layout_gravity="center">
+
+        <RadioButton
+            android:id="@+id/rbXiaoNao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alarm_name_xiaonao" android:gravity="center"/>
+
+        <RadioButton
+            android:id="@+id/rbXiaoLongMao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alarm_name_xiaolongmao" android:layout_gravity="center" android:gravity="center"/>
+
+        <RadioButton
+            android:id="@+id/rbXiaoMeiQiu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alarm_name_xiaomeiqiu" android:layout_gravity="center" android:gravity="center"/>
+
+        <RadioButton
+            android:id="@+id/rbManulInput"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alarm_name_manul" android:layout_gravity="center" android:gravity="center"/>
+
+    </RadioGroup>
+
+</LinearLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/set_alarm_names.xml -->

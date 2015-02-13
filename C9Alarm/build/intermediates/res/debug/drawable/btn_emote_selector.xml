@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/bg_chat_emote_selector" />
+    <item android:state_focused="true" android:drawable="@drawable/bg_chat_emote_selector" />
+</selector>
+<!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/res/drawable/btn_emote_selector.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/res/drawable/btn_emote_selector.xml -->

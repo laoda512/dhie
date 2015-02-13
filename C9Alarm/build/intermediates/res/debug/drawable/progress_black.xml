@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-rotate
+          xmlns:android="http://schemas.android.com/apk/res/android" 
+          android:drawable="@drawable/refresh_black" 
+          android:pivotX="50%"
+	      android:pivotY="50%" /><!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/res/drawable/progress_black.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/res/drawable/progress_black.xml -->

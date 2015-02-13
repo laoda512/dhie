@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/aaaaa"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <util.ScalingImageView
+        android:id="@+id/imageBtbl"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:background="@drawable/borderbleft"
+        android:scaleType="fitXY"
+        android:src="@color/transparent"
+      />
+
+    <LinearLayout
+        android:id="@+id/layoutbl"
+        android:layout_width="fill_parent"
+        android:layout_height="205dp"
+        android:layout_alignParentRight="true"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/layoutMain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="0.33"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textblring"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.5"
+                android:gravity="left|center" />
+
+            <TextView
+                android:id="@+id/textView_nouse3"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.5" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutMain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="0.33"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textbltime"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.33"
+                android:gravity="left|center" />
+
+            <TextView
+                android:id="@+id/textView_nouse1"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="0.66" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layoutMain"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_weight="0.33"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/textblname"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="left|center" />
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

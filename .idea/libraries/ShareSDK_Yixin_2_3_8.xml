@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ShareSDK-Yixin-2.3.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ShareSDK/libs/ShareSDK-Yixin-2.3.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:mySwitch="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sharePad"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+
+    <LinearLayout
+        android:id="@+id/bottomPad"
+        android:layout_width="match_parent"
+        android:layout_height="50sp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <com.appscumen.example.MySwitch
+            android:id="@+id/switch1"
+            style="@style/mySwitchStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="9dp"
+            android:layout_marginRight="4dp"
+            android:layout_marginTop="4dp"
+            android:gravity="center"
+            mySwitch:textOff="Not To Be"
+            mySwitch:textOn="ToBe" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="不在显示此页面" />
+    </LinearLayout>
+    
+<RelativeLayout  
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_above="@id/bottomPad"></RelativeLayout>
+    <ImageView
+        android:id="@+id/head"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="4dp"
+        android:src="@drawable/ic_clock_strip_alarm" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/head"
+        android:layout_marginRight="20sp"
+        android:layout_toRightOf="@id/head"
+        android:background="@drawable/chat_from_bg_normal"
+        android:paddingTop="12dp"
+        android:text="aaaaaaaaaa"
+        android:textColor="#000" >
+    </TextView>
+
+    <Button
+        android:id="@+id/imageButton1"
+        android:layout_width="60sp"
+        android:layout_height="50sp"
+        android:layout_marginTop="60dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/textView1"
+        android:visibility="gone"
+        android:text="分享" />
+
+  <cn.sharesdk.socialization.QuickCommentBar
+       android:id="@+id/qcBar"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentBottom="true"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+      />
+    
+
+</RelativeLayout>

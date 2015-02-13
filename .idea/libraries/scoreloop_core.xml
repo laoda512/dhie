@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="scoreloop-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/C9Alarm/libs/scoreloop-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Bmob_IM_test" />
+            <option value="$PROJECT_DIR$/C9Alarm" />
+            <option value="$PROJECT_DIR$/DownloadProvider" />
+            <option value="$PROJECT_DIR$/OneKeyShare" />
+            <option value="$PROJECT_DIR$/ShareSDK" />
+            <option value="$PROJECT_DIR$/Socialization" />
+            <option value="$PROJECT_DIR$/android-switch-demo" />
+            <option value="$PROJECT_DIR$/libforAvos" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/numberpick" />
+            <option value="$PROJECT_DIR$/pass" />
+            <option value="$PROJECT_DIR$/timeoick" />
+            <option value="$PROJECT_DIR$/timptest" />
+            <option value="$PROJECT_DIR$/trinea-android-common" />
+            <option value="$PROJECT_DIR$/umeng_android_socialize" />
+            <option value="$PROJECT_DIR$/umeng_android_socialize_demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

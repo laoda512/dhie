@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+  <solid android:color="#6b3e9d" />
+  <stroke android:width="5dp" android:color="#00ffffff" />
+  <corners android:radius="0dp" />
+  <padding android:left="5dp" android:top="5dp" 
+    android:right="0dp" android:bottom="5dp" />
+</shape><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/drawable/borderbright.xml -->

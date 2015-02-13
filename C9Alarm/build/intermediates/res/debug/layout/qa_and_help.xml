@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linearLayoutAlarmList"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    >	
+<!--     <LinearLayout  android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content"  -->
+<!--               android:layout_centerInParent="true"> -->
+
+<!--     <ScrollView    android:layout_width="fill_parent" -->
+<!--             android:layout_height="fill_parent"  -->
+          
+<!--             > -->
+
+<!--         <ListView -->
+<!--             android:id="@+id/listview" -->
+<!--             android:layout_width="fill_parent" -->
+<!--             android:layout_height="wrap_content" > -->
+<!--         </ListView> -->
+<!--     </ScrollView> -->
+<!-- </LinearLayout> -->
+
+ 
+
+
+            
+<!--                <ListView -->
+                   
+<!--                    android:layout_width="fill_parent" -->
+<!--                    android:layout_height="wrap_content" -->
+<!--                    android:layout_centerInParent="true" -->
+<!--                    android:id="@+id/listview" -->
+<!--                    android:background="#eaeaea" -->
+<!--                    android:cacheColorHint="#00000000" -->
+<!--                    android:divider="@null" -->
+<!--                    android:listSelector="@android:color/transparent" > -->
+
+<!--         </ListView> -->
+	
+    <GridView
+        android:id="@+id/gridView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+             android:listSelector="@android:color/transparent"
+           android:verticalSpacing="10dp"
+	    android:horizontalSpacing="10dp"
+	    android:padding="5dp"
+	    android:stretchMode="columnWidth"
+        android:numColumns="3" >
+    </GridView>
+
+</LinearLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/qa_and_help.xml -->

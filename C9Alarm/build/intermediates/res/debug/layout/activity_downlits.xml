@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/bg_saber" >
+
+
+
+    <RelativeLayout
+        android:id="@+id/getPoint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#cc688f2c" >
+
+       
+        
+        <View    
+            android:id="@+id/star"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+              android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/star"
+                />
+	
+        <TextView
+            android:id="@+id/points"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/star"
+           android:layout_centerVertical="true"
+            android:text="100"
+            android:textColor="@color/white"
+            android:textSize="22dp" 
+            android:paddingLeft="3dp"
+            />
+        
+         <TextView
+             android:id="@+id/giveMorePoints"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical|right"
+            android:text="啊~给我更多的元气!"
+            android:textSize="18dp"
+            android:textColor="@color/gray"
+            android:layout_toRightOf="@id/points"
+             />
+    </RelativeLayout>
+   <LinearLayout    
+       android:id="@+id/background"
+     android:layout_above="@id/getPoint"
+     android:layout_alignParentTop="true"
+          android:layout_width="fill_parent"
+          android:orientation="vertical"
+        android:layout_height="fill_parent"
+         >
+     <com.viewpagerindicator.TitlePageIndicator
+        android:id="@+id/indicator"
+        android:background="@drawable/base_action_bar_bg"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        />
+           
+                 <TextView  
+         android:id="@+id/hint"
+	    android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="欢迎回来"
+        android:textColor="#000"
+        android:background="@drawable/bg_leftpad"
+        android:gravity="top"
+        android:lines="2"
+        android:ellipsize="end"
+        />
+              
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+       android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        >
+<!--           <android.support.v4.view.PagerTabStrip -->
+<!--               android:id="@+id/pagerTab" -->
+<!--             android:layout_width="wrap_content" -->
+<!--             android:layout_height="wrap_content" -->
+<!--             android:layout_gravity="top" /> -->
+
+        
+        </android.support.v4.view.ViewPager>
+   </LinearLayout>
+
+</RelativeLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/activity_downlits.xml -->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+        <SeekBar
+            android:id="@+id/seekBar1"
+            android:layout_width="292dp"
+            android:layout_height="wrap_content"
+             />
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="调节手机默认的铃声音量，过响的的闹钟音量可能会引起不适，建议根据手机实际性能调节" />
+
+    <CheckBox
+        android:id="@+id/cbVibrate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vibrate" android:gravity="left|center_vertical"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="开启渐响模式时，闹钟响起后会从一个较轻的音量逐渐递增到正常的闹铃音量，递增的过程大约持续10秒" />
+
+    
+</LinearLayout>

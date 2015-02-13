@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/chat_emo_press" android:state_pressed="true"/>
+    <item android:drawable="@drawable/chat_emo_press" android:state_focused="true"/>
+    <item android:drawable="@drawable/chat_emo_normal"/>
+
+</selector><!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/res/drawable/btn_chat_emo_selector.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/build/intermediates/bundles/debug/res/drawable/btn_chat_emo_selector.xml -->

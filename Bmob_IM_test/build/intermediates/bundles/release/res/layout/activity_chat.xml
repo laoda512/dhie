@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <include
+        android:id="@+id/common_actionbar"
+        layout="@layout/include_action_bar" />
+    
+      <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0.0dip"
+        android:layout_weight="1.0"
+        android:background="@color/msg_chat_bg" >
+
+        <com.bmob.im.demo.view.xlist.XListView
+            android:id="@+id/mListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:cacheColorHint="@android:color/transparent"
+            android:divider="@null"
+            android:transcriptMode="normal"
+            android:fastScrollEnabled="true"
+            android:listSelector="@color/transparent"
+            android:paddingBottom="10dp"
+            android:fadingEdgeLength="0dp" />
+    </FrameLayout>
+
+    <include layout="@layout/include_chat_bottom_bar" />
+
+</LinearLayout>
+<!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/res/layout/activity_chat.xml -->

@@ -1,0 +1,30 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Define the background properties like color etc -->
+    <item android:id="@android:id/background">
+    <shape>
+        <gradient
+                android:startColor="@color/sao_gray"
+                android:centerColor="@color/sao_gray"
+                android:centerY="1.0"
+                android:endColor="@color/sao_gray"
+                android:angle="270"
+        />
+    </shape>
+   </item>
+
+  <!-- Define the progress properties like start color, end color etc -->
+  <item android:id="@android:id/progress">
+    <clip>
+        <shape>
+            <gradient
+                android:startColor="@color/sao_oriage"
+                android:centerColor="@color/sao_oriage"
+                android:centerY="1.0"
+                android:endColor="@color/sao_oriage"
+                android:angle="270"
+            />
+        </shape>
+    </clip>
+    </item>
+</layer-list> <!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/drawable/shape_download_btn.xml -->

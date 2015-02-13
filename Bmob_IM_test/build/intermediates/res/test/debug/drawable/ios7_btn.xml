@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@drawable/on" />
+    <item android:drawable="@drawable/off" />
+</selector><!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/res/drawable/ios7_btn.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/Bmob_IM_test/build/intermediates/bundles/debug/res/drawable/ios7_btn.xml -->

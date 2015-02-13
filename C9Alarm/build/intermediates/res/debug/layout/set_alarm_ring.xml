@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/rgRingMode"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" android:layout_gravity="center">
+
+        <RadioButton
+            android:id="@+id/rbSilent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/alarm_ring_silent" />
+
+        <RadioButton
+            android:id="@+id/rbSystemRing"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" android:text="@string/alarm_ring_system"/>
+
+        <!-- <RadioButton
+            android:id="@+id/rbRingOptional"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/alarm_ring_manul_tone" /> -->
+
+         <RadioButton
+            android:id="@+id/rbVibrateOnly"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/alarm_ring_vibrate_only"
+            android:layout_gravity="center" android:gravity="center"/> 
+
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/cbVibrate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vibrate" android:gravity="center"/>
+
+</LinearLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/set_alarm_ring.xml -->

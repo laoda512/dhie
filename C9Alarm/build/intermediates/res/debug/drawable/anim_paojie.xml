@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:oneshot="false"
+        >  <item android:drawable="@drawable/anim_paojie_01" android:duration="100" />
+            <item android:drawable="@drawable/anim_paojie_02" android:duration="100" />
+     <item android:drawable="@drawable/anim_paojie_03" android:duration="100" />
+      <item android:drawable="@drawable/anim_paojie_04" android:duration="100" />
+         <item android:drawable="@drawable/anim_paojie_05" android:duration="100" />
+           <item android:drawable="@drawable/anim_paojie_06" android:duration="100" />
+             <item android:drawable="@drawable/anim_paojie_07" android:duration="100" />
+     <item android:drawable="@drawable/anim_paojie_08" android:duration="100" />
+      <item android:drawable="@drawable/anim_paojie_09" android:duration="100" />
+         <item android:drawable="@drawable/anim_paojie_10" android:duration="100" />
+         <item android:drawable="@drawable/anim_paojie_11" android:duration="100" />
+               <item android:drawable="@drawable/anim_paojie_12" android:duration="100" />
+              <item android:drawable="@drawable/anim_paojie_13" android:duration="100" />
+    <item android:drawable="@drawable/anim_paojie_14" android:duration="100" />
+       <item android:drawable="@drawable/anim_paojie_15" android:duration="100" />
+    <item android:drawable="@drawable/anim_paojie_16" android:duration="100" />
+            
+</animation-list>
+<!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/drawable/anim_paojie.xml -->

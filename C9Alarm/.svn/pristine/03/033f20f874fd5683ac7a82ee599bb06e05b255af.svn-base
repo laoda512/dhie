@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/util/AnimationsContainer.java" />
+        <ignore path="src/weibo/WeiboOAuthActivity.java" />
+    </issue>
+</lint>

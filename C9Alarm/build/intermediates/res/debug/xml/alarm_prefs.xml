@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:key="@string/vibrate" android:title="@string/vibrate" android:summary="@string/vibrate"/>
+    
+    <EditTextPreference android:positiveButtonText="@string/confirm" android:negativeButtonText="@string/cancel" android:dialogTitle="@string/alarm_name" android:dialogMessage="@string/alarm_name"/><CheckBoxPreference android:summaryOn="@string/vibrate" android:disableDependentsState="true" />
+    
+    
+    <ListPreference android:dialogTitle="@string/repeat" 
+        android:positiveButtonText="@string/confirm" 
+        android:negativeButtonText="@string/cancel" 
+        android:dialogMessage="@string/repeat" 
+        android:entries="@array/alarm_repeat_entries"/>
+    
+    <EditTextPreference android:positiveButtonText="@string/confirm" 
+        android:negativeButtonText="@string/cancel" 
+        android:dialogTitle="@string/times" 
+        android:dialogMessage="@string/times"/>
+    
+    <RingtonePreference android:ringtoneType="all" 
+        android:title="@string/tones" android:key="@string/tones"/>
+    
+    
+
+</PreferenceScreen><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/xml/alarm_prefs.xml -->

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="431dp"
+        android:layout_gravity="top" >
+
+    </ListView>
+
+    <LinearLayout
+        android:id="@+id/linearLayoutButtons"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttonDone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Done" android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/buttonRevert"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Revert" android:layout_weight="1"/>
+
+        <Button
+            android:id="@+id/buttonDelete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete" android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/set_alarm.xml -->

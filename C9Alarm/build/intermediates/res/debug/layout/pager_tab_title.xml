@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.view.PagerTabStrip xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="top"
+    android:background="#333333"
+    android:paddingTop="4dp"
+    android:textColor="#fff" />
+<!-- From: file:/Users/cwang/Documents/workspace_a/umeng_android_socialize/res/layout/pager_tab_title.xml --><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/res/layout/pager_tab_title.xml -->

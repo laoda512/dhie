@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:oneshot="false">
+    <item android:drawable="@drawable/laodaing0001" android:duration="500" />
+    <item android:drawable="@drawable/laodaing0002" android:duration="500" />
+    <item android:drawable="@drawable/laodaing0003" android:duration="500" />
+    <item android:drawable="@drawable/laodaing0004" android:duration="500" />
+   
+</animation-list>
+<!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/anim/loading.xml -->

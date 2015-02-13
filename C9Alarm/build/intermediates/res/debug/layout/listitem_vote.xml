@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="5dp"
+   >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:background="@color/sao_gray" >
+
+            <TextView
+                android:id="@+id/ad01"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="百科"
+                android:textColor="@color/sao_font_black"
+                
+                 />
+            <TextView
+                android:id="@+id/ad02"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="贴吧"
+                android:textColor="@color/sao_font_black" 
+                  />
+            <TextView
+                android:id="@+id/ad03"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="手办"
+                android:textColor="@color/sao_font_black" 
+                   />
+            <TextView
+                android:id="@+id/ad04"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="抱枕"
+                android:textColor="@color/sao_font_black" 
+               />
+             <TextView
+                android:id="@+id/ad05"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_margin="5dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="T恤"
+                android:textColor="@color/sao_font_black" 
+               />
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:background="@color/sao_white" >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:padding="5dp" >
+
+                <ImageView
+                    android:id="@+id/icon"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentLeft="true"
+                    android:paddingLeft="5dp"
+                    android:paddingRight="5dp" />
+
+
+
+                <LinearLayout
+                    android:id="@+id/middlePad"
+                    android:layout_width="wrap_content"
+                    android:layout_height="60dp"
+                    android:layout_toLeftOf="@id/downloadBtn"
+                    android:layout_toRightOf="@id/icon"
+                    android:orientation="vertical"
+                    android:paddingRight="30dp" >
+
+                    <TextView
+                        android:id="@+id/name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="25dp"
+                        android:gravity="left|center_vertical"
+                        android:text="本间压抑子"
+                        android:textColor="#000"
+                        android:textSize="18dp" />
+
+                    <TextView
+                        android:id="@+id/line2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="15dp"
+                        android:layout_gravity="left|bottom"
+                        android:text="发起人：未来闹钟"
+                        android:textColor="@color/gray"
+                        android:textSize="12dp" />
+
+                    <TextView
+                        android:id="@+id/line3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="20dp"
+                        android:ellipsize="end"
+                        android:gravity="left|center_vertical"
+                        android:text="人气：5234"
+                        android:textColor="#e54444"
+                        android:textSize="16dp" />
+                </LinearLayout>
+            </RelativeLayout>
+            <TextView
+                android:id="@+id/comment"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center"
+                android:paddingLeft="5dp"
+                android:paddingRight="20dp"
+                android:drawableEnd="@drawable/ssdk_social_cl_pop_reply"
+                android:textColor="@color/white" />
+        </LinearLayout>
+        
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:background="@color/sao_gray" >
+
+           
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="35dp" >
+ 			 <TextView
+                        android:id="@+id/ad_bottom"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:layout_alignParentRight="true"
+                        android:text="折扣信息"
+                        android:textColor="@color/sao_font_black" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="35dp" >
+
+                    <TextView
+                        android:id="@+id/npc"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:text="投票："
+                        android:textColor="#000" />
+
+                    <TextView
+                        android:id="@+id/plus1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_margin="5dp"
+                        android:background="@color/sao_black"
+                        android:gravity="center"
+                        android:text=" + 5  "
+                        android:textColor="@color/white" />
+
+                    <TextView
+                        android:id="@+id/plus2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_margin="5dp"
+                        android:background="@color/sao_black"
+                        android:gravity="center"
+                        android:text=" + 20 "
+                        android:textColor="@color/white" />
+
+                    <TextView
+                        android:id="@+id/plus3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="fill_parent"
+                        android:layout_margin="5dp"
+                        android:background="@color/sao_black"
+                        android:gravity="center"
+                        android:text=" + 50 "
+                        android:textColor="@color/white" />
+
+                  
+
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout><!-- From: file:/Users/cwang/Documents/workspace_a/C9Alarm/res/layout/listitem_vote.xml -->

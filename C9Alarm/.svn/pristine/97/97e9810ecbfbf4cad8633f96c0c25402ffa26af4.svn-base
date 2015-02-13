@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <resources>
+      <!--   <style name="Buttons">
+            <item name="android:gravity">center</item>
+            <item name="android:layout_width">wrap_content</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:background">@drawable/btn_selected</item>
+        </style>
+        
+       
+    	
+         <style name="time_wheel">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">126.0dip</item>
+        
+    </style> 
+     <style name="wheel_wrapper">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style> -->
+    
+     <style name="Theme.Wallpaper" parent="android:style/Theme.Wallpaper">
+        	<item name="android:colorForeground">#fff</item>
+    	</style>
+    	
+      <style name="Theme.TransparentDialog" parent="android:style/Theme.Dialog">
+        	<item name="android:windowBackground">@color/transparent</item>
+        	 <item name="android:windowContentOverlay">@null</item>
+    		<item name="android:windowFullscreen">true</item>
+    	</style>
+    	
+<!--        <style name="Transparent">    
+    <item name="android:windowBackground">@color/transparent_background</item>    
+    <item name="android:windowNoTitle">true</item>    
+    <item name="android:windowFullscreen">true</item>  
+    <item name="android:windowIsTranslucent">true</item>       
+    </style>  -->
+    
+       <style name="Transparent">
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowAnimationStyle">@android:style/Animation.Translucent</item>
+</style>
+       
+    </resources>

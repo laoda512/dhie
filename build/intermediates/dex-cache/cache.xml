@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Twitter-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="35c23e01768922f65731328c9b1d66622ab4ddc0">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Twitter-2.3.8-e95a8b797c97391243a8ece50e7268ca68a908f9.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/libforAvos/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="20323ddc961ddf3bd54835578b3a0cb06a830ea7">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-ccafa422cf96c3bcbb8ce2d5956e9c49a8994a0b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="950c1ff4a1222faca54a98a492da5e175ae8c991">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-8f495aea7059907da14a6efab32e3aa3ddbce1e3.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Pinterest-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d48e3187970f97159a1825b22ce92f1c62683e91">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Pinterest-2.3.8-6004210a203b7b9230096dfae4a6b517fe657b1d.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_1-7e6c1d6879949868a888fe7ae5bf7f5163765b97.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Core-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ac0f451a0f061356d793a76ad8dbcfe4de2e547b">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Core-2.3.8-2c6da97ebf4e692e3e40a6be91063b7d5899fd06.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Yixin-Core-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="82e24b7ca7ca33ed5910bebeb3bc78a5c770c87a">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Yixin-Core-2.3.8-80284d0b078fe48a184fa71b03d2c6ea72c45268.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_laiwang_2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fa7b0e1e99de288a55b9679880c88c4d4d628435">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_2-9bfdf856d29a237cdcc979777b8a84da037184eb.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-bb82afe6ca6a903eb9e25a47257e7313730f97f1.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-7f658b6f5437cea7e015e11d160b8d5ee8d3132c.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-YouDao-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e384cc4549c194008b1de13a6a7785f1b7702b02">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-YouDao-2.3.8-f5b9f73ccf004167bf50b5f3ee39d1d94a4ef108.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/android-switch-demo/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="2c5a5b4951b3e09c15e3dd48a47b563cabdc3f46">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-fbcde213243dff4a03e2640f431ef9295485aacb.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_facebook_1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3d1f43e63c7cfad99638ec4b301d59f9fffe0b70">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_facebook_1-6b7c883fe5aa76b39728a822031d8e61df75e3b2.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/httpmime-4.1.3-92f2efa1cc6e67ebaa2780c5efaef04ca4828587.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Flickr-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="99de23e4651c8bf82de6a1a87d7e56ff8bb38829">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Flickr-2.3.8-a82968f6d97ba7db92774a6b90855fc888dd5e0a.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-ShortMessage-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cfa55959f8929b7a2d316930f69a0bf7a899762c">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-ShortMessage-2.3.8-a7be9c8436cb238725e5f484ccac88cbc39f4647.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/YoumiSdk_v4.09_2014-06-06.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="cf5dd7d22137aab6f5bd6a2511a256341130a61a">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/YoumiSdk_v4.09_2014-06-06-ec8617aba72d476cd4bfd5ad4bb43a22fe8cfaf6.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_facebook_2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f45d094bc0d340fd3e599694b99f633db405f6f2">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_facebook_2-6626b41ba81e159fe3038b83ee3dede8d3b0480d.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-VKontakte-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="bbd21bbce85b25d0982f0de2ea9bc18607534032">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-VKontakte-2.3.8-849f094cb38231d97d0497a3b879b4a00bab3eab.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Dropbox-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="80080dba9724107f30c9f03678d975a730af5f03">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Dropbox-2.3.8-3161589c391b1105c2d86f0643856a9de2451100.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-SohuSuishenkan-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8bf6fe1b81b3b3df1fd4d78bd5fc68631d164459">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-SohuSuishenkan-2.3.8-a1e730671cc075eca88649a011e4e337742ba525.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_Shake_Lib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e8a0f4ed83e8f1243560c76ae61ca77b5c1303cc">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_Shake_Lib-fb0d24d0faebc6a000e5fd5b13b0229affe67be9.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/trinea-android-common/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="3cb6a2e2d52859b5a1f1d8c35ddbb49039d4f9a7">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-1ae2eb3a66c4f9ba44b191e789af12fffa8c9664.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-TencentWeibo-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="20db8b1f1459652116d095e2fb78e398f00ed8c7">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-TencentWeibo-2.3.8-636634bc33da30275b495eb5cb1b767895403a02.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-NetEaseMicroBlog-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f5f3fbc2b6687f3f0170ed8a2e22fb0a180f9ab7">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-NetEaseMicroBlog-2.3.8-fc102154f4efe764d73da93ac48706253c193cf4.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Socialization/unspecified/libs/ShareSDK-Socialization-1.0.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="da62154c8ba574d5232b2d7f6266c6e12d2b47eb">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Socialization-1.0.4-34514025fb709ef0d9ad39af069b41464cc1580b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/libforAvos/unspecified/libs/fastjson.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d449ce9b6023c059db09be5170229162a77e007a">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/fastjson-2924f930960a4099c72a80e4c54c15317c842a20.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Email-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ed90c710dfb3240339b29da65346b39d8b24230f">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Email-2.3.8-485b2af1d202f7ab37d6239a08c274760e26e3a7.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Yixin-Moments-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b42381e3951a135320fdafe2770f7759f0cd65cc">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Yixin-Moments-2.3.8-12a56ff693299fd20e58b4e7f6b988d9a127ea86.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_yixin_1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8fa68a3bb5ae6231cd4ccaf355d80c6f3725d0ca">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_yixin_1-abc63703bf046f050fc9a1764364aa0becb45701.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a63435b0aace566bc3f04219eafd3d72689ae09c">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-2e91100b39002f9a51985da78b33f113942fc07e.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-QQ-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="46e193a548fb3dcefbd65d3294627f1ffac4f697">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-QQ-2.3.8-acdb43052814f3ac8d16b9146e96f334628ff3ab.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Facebook-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="34f24196b9f526d4acf001f1a79645346e2a6636">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Facebook-2.3.8-152bdf9e86112c6c93e0c0b64989514e8a64f1cb.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_instagram.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="aa42dc50730198d0c7ef5f6ab442c040c7c83c57">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_instagram-179922dd34822ce28f48cd35abe47b059ee8d3d5.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-SinaWeibo-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f1f14046d4ddc4b9fdb9000dba76ea3aaa6ebb49">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-SinaWeibo-2.3.8-d5cb3f127f4c4e073a85bec5cc888d9ad07788cb.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/Baidu_MobAds_SDK_3.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4ea4a3c031f0d2264aeb9e989c4750b48b05ccc3">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/Baidu_MobAds_SDK_3.4-964dcb45adf2cd66b6073f1d83d1e033462fbfdd.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7b50652ad358560ea4b857828bb6dcde8f46e337">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_2-d360fe9056f08058ee886430d31c924ae7735a7d.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Instagram-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ace227766a4e43fc8265257521958ee32f742096">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Instagram-2.3.8-efc3c985c370f8d8c89edc1240c70ac82a3f7a27.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Evernote-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4691118ff5b5a2dd6fad5aef8a2659347b7de870">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Evernote-2.3.8-00fe6c157a2be5cdd6bb82c7be90678e0fbe7e36.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/OneKeyShare/unspecified/libs/mframework.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="25509058b34a5ee08dbf66e57078e3083735d200">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/mframework-e49d849a6cd08c49eb83c4458401519904a5c20a.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Yixin-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ea157d9529a768210fecc03094cf7e1fb1e6cc0b">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Yixin-2.3.8-3d8a3321979ca8d6e0f1b327d7d775397018f041.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Wechat-Moments-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f76c555cdf45bd08d74bccd954710e331059d598">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Moments-2.3.8-aae3c24d94c4865305c8bee76862d69da94a7a3f.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/commons-logging-1.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ba24d5de831911b684c92cd289ed5ff826271824">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/commons-logging-1.1-f53381b558e7ad8a1c2b352f3ba461db7b21133b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Douban-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="259e6038cca24de017c24337ba8249c8407d1fad">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Douban-2.3.8-ed6be7d3c563971c9e09ad0ce38f92b6cea8403a.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-KaiXin-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c34a70c66b0a1cbf40e9080b727805e280bc315d">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-KaiXin-2.3.8-d68ec00bb64bdcb0381c13340b2d1e8ca117bdef.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Tumblr-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="eefcfb36297cc8665f5c31a9c19712fdeeb96cb9">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Tumblr-2.3.8-f4570bb34e459a562b3b19e6ab45a4417e67628c.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Wechat-Favorite-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9048af3f1279a7f1c83a7c9aa756481f4b74cfbc">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Favorite-2.3.8-d36af02f695ee127ee36feb826ba4069572f0942.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/DownloadProvider/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="fd2cbc050b3edfa246d6aeb2a56307239a9acf55">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-da6d352f790e0ee204a90afb97994350a87319b4.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Wechat-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd53aef33b55f70770e59816193e16a13db02717">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-2.3.8-e3f7f6dab6af462aaa9633c6750a45320bad8a46.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Socialization/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="20462b494352a45c999a0b8e4397fab8567e54e6">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-f0c65c73e157019814c3c62557c4842c0ca282c9.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/libs/universal-image-loader-1.9.2_sources.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e33324b770223932d467e4ec39639b0c15f3b94e">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.2_sources-d1f57ade141aa4d8dcf982dab5610e292b745220.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_tencentWB_2-dcc516c6fc34a2aed2974ccc52f8329bbb447ad4.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Mingdao-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="df0c489b8377f74efebb3af1a895195886d86fe6">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Mingdao-2.3.8-d88406e45a547804130bce2e99dc0af37d6c2712.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/libforAvos/unspecified/libs/avoscloud-v2.5.6.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="4b5b897ba3fa9d21a4f634672fd0122013e29382">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/avoscloud-v2.5.6-be84492b1683340f4512c5c6f3062e84fd654f3c.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_Scrshot_Lib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9bc4564a7f9ff7cdb2f5409bc1ce30de9f2c8795">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_Scrshot_Lib-fff163d04422dda4c2c41f3871c185fd66095811.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/achartengine-0.7.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f51933deafdd1ffc8f3a2d7214260f124dd10af6">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/achartengine-0.7.0-f2985143d12529f20c1c77ae33acd27203563d73.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-GooglePlus-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b36482d8da46b0ce317e1a3fbe0bcce5052e1fe0">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-GooglePlus-2.3.8-9e2b2ff4a0f4f8a291a8f1327bec245de37100d5.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="93b0c54ec63bcb8e4507cc5bbeb8cce2aa2a64be">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/umeng_social_sdk-9ee70c4d533836d035981316c3a2e7ba43c2898b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Wechat-Core-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c82c5ea882d5a7d4575b01ed96d4c6413a67359d">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Wechat-Core-2.3.8-26d4a277e8c8995c9f423489389e9cd441b86686.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_laiwang_1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="683f207519e21edd9d4fcfe8ef8fc2533c88ef1b">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_laiwang_1-8b3ec71227ca33fe88a19cbf66bfa794d873139f.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/libs/baidumapapi_v3_0_0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b39155228374e50c537705e9bfc10d3f69c2397a">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/baidumapapi_v3_0_0-57f3c37b46fd28b843beeb4e6e23cff54da1c89b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-QZone-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="05236d065dda4d4fc5eeeb30e3b080a26f0e1c36">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-QZone-2.3.8-f25c4bd4730d581c7c5f970bdc5690897a17ae70.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/libforAvos/unspecified/libs/android-async-http-1.4.4-fix.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c995018b56f9be5716903c7bffbae0e1ee758af6">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/android-async-http-1.4.4-fix-30adbcae4184ffd51fda52373ca77d86bc2531c6.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/libs/Bmob_SDK_V1.0.3_beta.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="97217a462ea4940d0a18d1f21635dbdc5390146a">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/Bmob_SDK_V1.0.3_beta-77cd7cc48a57e688023ecdfeccdb6ede4e594e3c.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_WeiXin.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="a5f20a9010df32cb73db28ec33964ed8b4c503cc">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_WeiXin-6e9dc0f9e06eee76cfa01f84e47ff75945085cfc.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_yixin_2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dbd1333356396864276df4ce085ccce78fa48a90">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_yixin_2-9574c3e8141d6e47e4841d90c8c542245e61feab.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/bmob_v3.1.4beta.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="506b585ece45abefd696c080707d64e09fb94831">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/bmob_v3.1.4beta-2d7d036ac0fa015b81d260d4b10d420bb3de7633.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/libs/photoview-library-1.2.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b9000943d77c17d231bf3141a712828f2636c2ea">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/photoview-library-1.2.2-e4f151242a9c20ed9d03e7494552fc053647ad95.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7d71df960f326e70e9c21c715f4948146d91c348">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-6be44e73cae927fa6fc4d5ddaf6120b68925be98.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/Baidu_MobAds_SDK_Wall_1.22.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c5dd41fd51bf0f285d210ac341e820079a41bf6b">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/Baidu_MobAds_SDK_Wall_1.22-8a41df1fc61af71d61977e7da514250247a5c883.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/umeng_sdk.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="6314fca3158cbf7e64c011d5d19404f779c5f778">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/umeng_sdk-b24f5ce12ce8959845214190e574d547c14933d0.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Renren-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="5d152cca1a4afcbdb8dd5986bf4231735d8248dc">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Renren-2.3.8-e59b51365bc0ddd8ccd7eea351d3d3e9bebf164a.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-5444e909e6b7b0aaa197c810a7a08a2bc66d507b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/com.umeng.message.lib.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1c8683dd9a7967b90f05a26372a376094d4febb1">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/com.umeng.message.lib-182db1dc3e6db2ab1b147b056910dbcef7de3c63.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/commons-httpclient-3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/commons-httpclient-3.1-724688ad766884ad049f7ddcaa4b4f3de69a5adc.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Foursquare-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="723ba15c9f3465dd6717b1560c134239af3d2959">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Foursquare-2.3.8-cdb6ecf54e46d7be2d9b5fa35a15aacd234aa2b7.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/umeng_android_socialize/unspecified/libs/SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="1d1a215c3acd13ef011b8391cab495f7760c2a1d">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/SocialSDK_QQZone_1-4c8361e0a90640b44424e7076e7622c0026e5c6b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/libs/scoreloop-core.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ae7e9d429388a9fcad266551820e5a89ae954631">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/scoreloop-core-f81f48fbf0269916bccf9e3acead8269d798675f.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/libs/locSDK_3.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="09224a1883da8b5bd37e766f4fab80570d879898">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/locSDK_3.1-b9c3e94ff4b9abd88668b622ba63d855e11fef8b.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-Linkedin-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="ca0d6847d558f49becd71ac430b51f305f552c17">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-Linkedin-2.3.8-903a40b01add9552ed88e155d09e0daacd441864.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/OneKeyShare/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="20cee6991ee6c677e0c33b78f44ec74616e4cc82">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-2676993d772dcca1ac0484955fbd5fc9283705db.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/Bmob_IM_test/unspecified/libs/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/gson-2.2.4-84a5b21782e1c1e4b52e3bf8bab43ff36f104463.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9e83ed656ec607cb3960770a76a6c5aba35e2b7c">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/classes-fcd725dcdd93849376f2ef322f9120522016b65a.jar" />
+    </item>
+    <item
+        jar="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/exploded-aar/workspace_a/ShareSDK/unspecified/libs/ShareSDK-SouhuMicroBlog-2.3.8.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="12555f52fd9dd7d6e1c6a4fb6c916e972fdac994">
+        <dex dex="/Users/cwang/Documents/workspace_a/C9Alarm/build/intermediates/pre-dexed/debug/ShareSDK-SouhuMicroBlog-2.3.8-b4ad89e5b1bbd91c60d28a7196c7e7a8414c91ac.jar" />
+    </item>
+
+</items>

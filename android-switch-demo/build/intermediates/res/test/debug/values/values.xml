@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/cwang/Documents/workspace_a/android-switch-demo/build/intermediates/bundles/debug/res/values/values.xml -->
+    <eat-comment/>
+    <attr format="reference" name="mySwitchStyleAttr"/>
+    <declare-styleable name="MySwitch"><attr format="reference" name="thumb"/><attr format="reference" name="track"/><attr format="reference|string" name="textOn"/><attr format="reference|string" name="textOff"/><attr format="reference" name="drawableOn"/><attr format="reference" name="drawableOff"/><attr format="boolean" name="pushStyle"/><attr format="boolean" name="textOnThumb"/><attr format="dimension" name="thumbExtraMovement"/><attr format="dimension" name="thumbTextPadding"/><attr format="dimension" name="trackTextPadding"/><attr format="reference" name="switchTextAppearanceAttrib"/><attr format="dimension" name="switchMinWidth"/><attr format="dimension" name="switchMinHeight"/><attr format="dimension" name="switchPadding"/><attr name="orientation"><enum name="horizontal" value="1"/><enum name="vertical" value="0"/></attr><attr format="reference" name="leftBackground"/><attr format="reference" name="rightBackground"/><attr format="reference" name="backgroundMask"/></declare-styleable>
+    <declare-styleable name="mySwitchTextAppearanceAttrib"><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr name="textStyle"><flag name="normal" value="0"/><flag name="bold" value="1"/><flag name="italic" value="2"/></attr><attr format="reference" name="typeface"><enum name="normal" value="0"/><enum name="sans" value="1"/><enum name="serif" value="2"/><enum name="monospace" value="3"/></attr><attr format="color" name="textColorHighlight"/><attr format="color" name="textColorHint"/><attr format="color" name="textColorLink"/><attr format="boolean" name="textAllCaps"/></declare-styleable>
+    <drawable name="green_drawable">#CC123Bff</drawable>
+    <drawable name="red_drawable">#CCAA1883</drawable>
+    <string name="app_name">Android-switch-demo</string>
+    <string name="hello">Hello World, AndroidSwitchDemoActivity!</string>
+    <style name="SwitchText">
+    <item name="android:paddingLeft">8px</item>
+    <item name="android:paddingBottom">8px</item>
+    <item name="android:textColor">#FFeeFFee</item>
+    <item name="android:textSize">24dip</item>
+    <item name="android:shadowColor">#BB000000</item>
+    <item name="android:shadowDx">1</item>
+    <item name="android:shadowDy">1</item>
+    <item name="android:shadowRadius">1</item>
+  </style>
+    <style name="mySwitchStyle">
+        <item name="track">@drawable/switch_track_green</item>
+        <item name="thumb">@drawable/background_fenced</item>  
+        <item name="switchTextAppearanceAttrib">@style/mySwitchTextAppearance</item>
+        <item name="textOn">ON</item>
+        <item name="textOff">OFF</item>
+        <item name="pushStyle">false</item>
+        <item name="textOnThumb">true</item>
+        <item name="thumbExtraMovement">0dp</item>
+        <item name="thumbTextPadding">6dp</item>
+        <item name="trackTextPadding">6dp</item>
+        <item name="switchMinWidth">69dp</item>
+        <item name="switchMinHeight">36dp</item>
+        <item name="switchPadding">6dp</item>
+    </style>
+    <style name="mySwitchTextAppearance">
+        <item name="textColor">#FFeeFFee</item>
+        <item name="textColorHighlight">#FFeeFFee</item>
+        <item name="textColorHint">#FFeeFFee</item>
+        <item name="textColorLink">#FFeeFFee</item>
+        <item name="textSize">16sp</item>
+        <item name="textStyle">normal</item>
+    </style>
+</resources>

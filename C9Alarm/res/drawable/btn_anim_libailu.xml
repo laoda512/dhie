@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:oneshot="false"
+        >
+ 
+	<item android:drawable="@drawable/btn_anim_libailu_01" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_02" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_03" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_04" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_05" android:duration="100" />
+	   <item android:drawable="@drawable/btn_anim_libailu_06" android:duration="100" />
+<item android:drawable="@drawable/btn_anim_libailu_01" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_02" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_03" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_04" android:duration="100" />
+	<item android:drawable="@drawable/btn_anim_libailu_05" android:duration="100" />
+	   <item android:drawable="@drawable/btn_anim_libailu_06" android:duration="100" />
+	   
+</animation-list>

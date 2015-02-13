@@ -1,0 +1,11 @@
+.DS_Store
+*~
+doc
+webui
+openfeint_internal_settings.xml
+openfeint_app_settings.xml
+bin
+gen
+local.properties
+.emacs-project
+.metadata
